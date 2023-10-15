@@ -33,4 +33,8 @@ ctrl shift v
 # comandi linguaggi programmazione w3 school
 [w3 school](https://www.w3schools.com/)
 
+# utilizzo icone in markdown 
+tasto windows + . (punto)
+😂😂
+
 
