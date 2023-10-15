@@ -17,7 +17,7 @@ windows /mac: seleziona e usa TAB
 windows: alt (tengo premuto) + clicca tasto sx mouse sulle singole righe
 mac:  opt (tengo premuto) + clicca tasto sx mouse sulle singole righe
 
-# codifiche per simpboli 
+# codifiche per simpboli html - html entity code
 https://www.toptal.com/designers/htmlarrows/currency/
 
 # markdown sito per sintassi 
@@ -26,5 +26,11 @@ https://www.markdownguide.org/cheat-sheet/
 # ` questo simbolo si chiama backtic e si differenzia da accento 
 per farlo su tastiera standard ALT + 96 composto da tastierino numerico a dx
 sarà utile più avanti quando scriveremo in java script
+
+# attivare preview su markdown 
+ctrl shift v
+
+# comandi linguaggi programmazione w3 school
+[w3 school](https://www.w3schools.com/)
 
 
