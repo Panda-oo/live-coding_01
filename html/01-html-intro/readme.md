@@ -25,7 +25,7 @@ https://www.markdownguide.org/cheat-sheet/
 
 # ` questo simbolo si chiama backtic e si differenzia da accento 
 per farlo su tastiera standard ALT + 96 composto da tastierino numerico a dx
-sarà utile più avanti quando scriveremo in java script
+sarà utile più avanti quando scriveremo in java script 
 
 # attivare preview su markdown 
 ctrl shift v
@@ -37,4 +37,22 @@ ctrl shift v
 tasto windows + . (punto)
 😂😂
 
+# corretta struttura per lista annidata
+```html 
+<ul>
+    <li>Pomodoro</li>
+    <li>Banane</li>
+    <li>Panino:
+    <!-- sottolista, comando span includi un elemento per lavorare solo su quello, attributo class per identificare solo quel elemento, poi con ispeziona puoi attribuire altri attribuiti e copiare poi qui il codice es colore color: red, font-size: 80px ecc. -->
+        <ul>
+            <li> &#10003; Insalata</li>
+            <li> 
+                <span class="icon">&#10003;</span> Hamburger
+            </li>
+            <li> Bacon</li>               
+        </ul>
+                        
+    </li>
+</ul>
+```
 
