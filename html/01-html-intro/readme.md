@@ -56,3 +56,5 @@ tasto windows + . (punto)
 </ul>
 ```
 
+# guida inline e block element html
+[guida](https://www.w3schools.com/html/html_blocks.asp)
